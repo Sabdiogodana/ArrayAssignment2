@@ -40,3 +40,7 @@ fun mixedArray(mix:Array<Any>):Double{
 }
  return y
    }
+   fun add(){
+       var x=a+b
+       println(x)
+   }
